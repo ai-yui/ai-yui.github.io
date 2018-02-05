@@ -1,15 +1,5 @@
 ---
 layout: default
-title:  "AI 画师 YUI 技术介绍"
-date:   2018-02-05 00:00:00
-last_modified_at:  2018-02-05 01:00:00
-excerpt: "Demo Page ....."
-image:
-  feature: milky-way.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: darker
-syntaxHighlighter: no
 ---
 # Cornua illum nec
 
