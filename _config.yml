@@ -3,3 +3,4 @@ description: AI 画师 YUI
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+show_downloads: false
