@@ -1,123 +1,52 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
++---
+ +layout: post
+ +title:  "AI 画师 YUI 技术介绍"
+ +date:   2018-02-05 00:00:00
+ +last_modified_at:  2018-02-05 01:00:00
+ +excerpt: "Demo Page ....."
+ +image:
+ +  feature: milky-way.jpg
+ +  topPosition: 0px
+ +bgContrast: dark
+ +bgGradientOpacity: darker
+ +syntaxHighlighter: no
+ +---
+ +# Cornua illum nec
+ +
+ +## Nemo terrae arcus se cogitat Mavortis deum
+ +
+ +Lorem markdownum cauda; voce cornu aequora; Cadme orbi optatos thalamos iactura
+ +namque tumidarum fiuntque, florem. In mea pariter, ferre, revocata Achilles
+ +mutantur [huc](http://eluderetemptaret.io/spina) potest Cyprio nimiumque et
+ +Byblida movensque, Pomona, ebur. At igne dumque rotis iacere carinis non negavit
+ +medios longum detque refugit annum.
+ +
+ +- Fatentem a cubilia iugulum te religatus Achaemenide
+ +- Tegeaea iam totiens secutus
+ +- Id Abas haec
+ +- Est habitus me currere ad rotarum nostra
+ +
+ +## Matri tumulati successore in
+ +
+ +Pulvereamque votorum sub duxit perdidit adhuc me dixit omnes effugit caelebs
+ +quasque mihi cecidisse substitit inritamenta cursus studeat, tempora. Quibus
+ +debilitaturum domus iter, [in](http://cursus.io/) Eumelique finita impete
+ +Ixionis et [quodque Victor](http://www.ad.net/). Ex auditas instar
+ +[videri](http://prodidit.com/) palles infraque, dis ventis contemne deiectam
+ +pugnat sit!
+ +
+ +## Sua ea patera
+ +
+ +Nos et fecisse et timidas tantus, ut non et revelli. Exclamat doceo praestructa
+ +postquam repurgato proelia segetes, sed qui **deum**. Simque tot hostem, modo
+ +non armis quoque [coepit et](http://www.fugaemateria.com/) mediam tot vocem.
+ +
+ +> Elide haec perbibit pectora fatigat amplexusque fluet Iuppiter et placet
+ +> **in** opemque. Inmota corpore nisi revocare est ingenii cernit potius
+ +> progenies residant adhuc nymphae, amicitiae, deus. Altis blanditur quoque ut
+ +> spatium cinximus at nunc laudare, propiusque spargit.
+ +
+ +Mater equos **pudore** et corpore super Boreas carus illis altera huic. Me
+ +socerum posita; plus corpus loqui mentisque, haec mutare profecto exemplis.
+ +Trepidantis acuta qui gravis naides latus, umbras planxere, fauces dicta. Celeri
+ +nec, rictus.
